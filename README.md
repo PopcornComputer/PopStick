@@ -1,8 +1,6 @@
 # PopStick
-<p>
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
 [![Follow Source Parts on Twitter][twitter-follow-image]][twitter-follow]
-</p>
 <p align="center"><img width="80%" src="https://usbcomputer.com/images/banner.jpg" alt="PopStick USB Computer Device"></p>
 
 ## License
