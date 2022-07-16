@@ -7,7 +7,7 @@
 PopStick™ is available for purchase in our webstore: [webstore]
 
 ## Learn More
-For a general overview, please visit the PopStick™ USB Computer website: [https://usbcomputer.com][usbcomputer]
+For a general overview, please visit the PopStick™ USB Computer website: [https://usbcomputer.com][usbcomputer]  
 To learn how to use PopStick™, make sure to check out the link to our documentation below.
 
 ## Documentation
