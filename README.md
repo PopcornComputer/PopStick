@@ -1,6 +1,7 @@
 # PopStick™
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
-[![Follow Source Parts on Twitter][twitter-follow-image]][twitter-follow]
+[![Follow Source Parts on Twitter][twitter-follow-shield]][twitter-follow]
+[![Subscribe to Source Parts Subreddit]][reddit-subcribers-shield]][sourceparts-subreddit]
 <p align="center"><img width="80%" src="https://usbcomputer.com/images/banner.jpg" alt="PopStick USB Computer Device"></p>
 
 ## Purchase
@@ -29,7 +30,9 @@ PopStick™ is a trademark of Source Parts Inc.
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 [twitter-follow]: https://twitter.com/intent/follow?screen_name=sourceparts
-[twitter-follow-image]: https://img.shields.io/twitter/follow/sourceparts?style=social&logo=twitter
+[twitter-follow-shield]: https://img.shields.io/twitter/follow/sourceparts?style=social&logo=twitter
+[sourceparts-subreddit]: https://reddit.com/r/sourceparts
+[reddit-subscribers-shield]: https://img.shields.io/reddit/subreddit-subscribers/sourceparts?style=social
 [usbcomputer]: https://usbcomputer.com
 [usbcomputer-docs]: https://docs.usbcomputer.com
 [webstore]: https://shop.popcorncomputer.com/products/popstick
