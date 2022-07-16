@@ -1,8 +1,7 @@
 # PopStick
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-
-
+<p align="center"><img width="80%" src="https://usbcomputer.com/images/banner.jpg" alt="PopStick USB Computer Device"></p>
 
 ## License
 This work is licensed under a
