@@ -12,6 +12,7 @@ To learn how to use PopStick™, make sure to check out the link to our document
 
 ## Documentation
 To view the documentation stored in this repository please visit: [https://docs.usbcomputer.com][usbcomputer-docs]  
+
 If you have done something cool with PopStick™ or feel that something is missing from the documentation, please feel free to open an issue on this repository or submit a Pull Request. The source files for our documentation website can be found in the /docs folder in this repository.
 
 ## License & Copyright
