@@ -4,7 +4,7 @@
 <p align="center"><img width="80%" src="https://usbcomputer.com/images/banner.jpg" alt="PopStick USB Computer Device"></p>
 
 ## Purchase
-PopStick™ is available for purchase in our webstore: [webstore]
+PopStick™ is available for purchase in our webstore: [https://shop.popcorncomputer.com/products/popstick][webstore]
 
 ## Learn More
 For a general overview, please visit the PopStick™ USB Computer website: [https://usbcomputer.com][usbcomputer]  
