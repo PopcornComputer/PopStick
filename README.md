@@ -1,7 +1,7 @@
 # PopStick™
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
 [![Follow Source Parts on Twitter][twitter-follow-shield]][twitter-follow] 
-[![Subscribe to Source Parts Subreddit]][reddit-subcribers-shield]][sourceparts-subreddit]
+[![Subscribe to Source Parts Subreddit][reddit-subcribers-shield]][sourceparts-subreddit]
 <p align="center"><img width="80%" src="https://usbcomputer.com/images/banner.jpg" alt="PopStick USB Computer Device"></p>
 
 ## Purchase
