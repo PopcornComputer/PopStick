@@ -1,8 +1,9 @@
-<p align="center"><img width="80%" src="https://usbcomputer.com/images/banner.jpg" alt="PopStick USB Computer Device"></p>
+<p align="center"><img src="https://docs.usbcomputer.com/images/banner.jpg" alt="PopStick USB Computer Device"></p>
 
 # PopStick
+>a USB Computer
 
-> a USB Computer
+## About PopStick
 
 
 ## Software
