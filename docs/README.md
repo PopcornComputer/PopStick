@@ -22,5 +22,10 @@ https://github.com/PopcornComputer/Popstick-linux/
 You can find the schematic, design files and bill of materials (BOM) in the **PopStick-Hardware** repository.<br>
 https://github.com/PopcornComputer/PopStick-Hardware
 
+## Contact
+For sales inquiries, please email: <a href="mailto:sales@source.parts">sales@source.parts</a>
+
+For support, please email: <a href="mailto:support@source.parts">support@source.parts</a>
+
 [webstore]: https://shop.popcorncomputer.com/products/popstick
 [popstick-hardware-repo]: https://github.com/PopcornComputer/PopStick-Hardware
