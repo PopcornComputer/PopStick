@@ -5,7 +5,7 @@
 <p align="center"><img width="80%" src="https://usbcomputer.com/images/banner.jpg" alt="PopStick USB Computer Device"></p>
 
 ## Purchase
-PopStick™ is available for purchase in our webstore: [https://shop.popcorncomputer.com/products/popstick][webstore]
+**PopStick™** is available for purchase in our webstore: [https://shop.popcorncomputer.com/products/popstick][webstore]
 
 ## Learn More
 For a general overview, please visit the PopStick™ USB Computer website: [https://usbcomputer.com][usbcomputer]  
@@ -14,7 +14,7 @@ To learn how to use PopStick™ or learn in more detail about how it works, plea
 ## Documentation
 To view the documentation stored in this repository please visit: [https://docs.usbcomputer.com][usbcomputer-docs]  
 
-If you have done something cool with PopStick™ or feel that something is missing from the documentation, please feel free to open an issue on this repository or submit a Pull Request. The source files for our documentation website can be found in the /docs folder in this repository.
+If you have done something cool with **PopStick™** or feel that something is missing from the documentation, please feel free to open an issue on this repository or submit a Pull Request. The source files for our documentation website can be found in the /docs folder in this repository.
 
 ## License & Copyright
 This work is licensed under a
@@ -24,7 +24,7 @@ This work is licensed under a
 
 Source Parts Inc. © 2022
 
-PopStick™ is a trademark of Source Parts Inc.
+**PopStick™** is a trademark of Source Parts Inc.
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
