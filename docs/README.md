@@ -15,7 +15,7 @@ By using the USB micro B connector and plugging a cable into your computer. You 
 
 The factory software install of the PopStick™ contains two users.
 1. User: root<br> Password: None (Blank, see below for details)
-2. User: popcorn <br>Password: popcorn
+2. User: pop <br>Password: popcorn
 
 Upon logging into for the first time with root and until you set a password for it. You will automatically be dropped into a command-line without being prompted for a password. You will not be able to SSH into PopStick™ with root until you set a password.
 
